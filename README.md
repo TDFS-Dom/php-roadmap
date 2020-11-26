@@ -21,14 +21,11 @@
 #### Buổi 03
 
 - [ ] Exercise String, Number, Array - Phần 2
-
 - [ ] Exercise Duyệt menu cấp 1 đến cấp 2
-
 - [ ] Exercise chuyển đổi chuỗi phức tạp
-
 - [ ] Exercise truy xuất chuỗi phức tạp
 
-- [ ] #### Buổi 04
+#### Buổi 04
 
 - [ ] Exercise String, Number, Array - Phần 3
 - [ ] GIT & Github trong quản lý mã nguồn
